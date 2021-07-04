@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mathilde-sempere@hotmail.fr
+	name = mathilde sempere mathilde-sempere@hotmail.fr
